@@ -40,7 +40,7 @@ from random import choice
 
 
 PREFIX = '?' #คำนำหน้าตอนใช้คำสั่ง
-TOKEN = 'OTcxNzExMzcxMDM1MTQ4MzA4.G1C3pO.piKOB1naO6A535n_-4fl3DOFrieIJVeOvcHUOE' #token ของบอท
+TOKEN = '' #token ของบอท
 LIMIT = 60 #จำนวนสูงสุดที่ใส่ได้ต่อการยิง 1 ครั้ง
 blacklist = [
     "191",
